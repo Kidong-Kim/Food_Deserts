@@ -1,6 +1,8 @@
 # Food Deserts - Data mining, Data inference via Ensembling
 
-Reseach question : What is the relationship between food deserts and demographic/geographic factors such as race, income, rural/urban environment, etc?
+## Reseach question 
+
+  What is the relationship between food deserts and demographic/geographic factors such as race, income, rural/urban environment, etc?
 
 ## Information about Data
   - Food Deserts in the U.S. Dataset on Kaggle
