@@ -18,8 +18,7 @@
 
 ### Unsupervised Learning 
 - k-means clustering
-- Elbow method
-  
+
 ## Conclusion
   - Nearby census tracts are generally clustered together (Regional/Statewide trends)
   - Lower income areas have more issues with food access and food deserts
