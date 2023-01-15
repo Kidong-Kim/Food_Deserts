@@ -13,7 +13,7 @@
 
 ---
 
-## Methods and techniques
+## Methods and Tools
 
 ### Dimensionality Reduction
 - PCA 
